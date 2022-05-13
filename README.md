@@ -1,4 +1,3 @@
-@@ -0,0 +1,16 @@
 # 🌳 SANCHEONG clone coding
 
 > 산청군청 클론코딩 사이트입니다.
